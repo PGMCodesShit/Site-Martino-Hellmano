@@ -1,0 +1,32 @@
+.title
+{
+text-align: center;
+font-size: 48px;
+font-family: sans-serif;
+}
+
+.lien
+{
+display: block;
+font-weight: bold;
+color: red;
+font-size: 18px;
+font-family: monospace;
+}
+
+
+#image_principale
+{
+display: block;
+margin: auto;
+width: 15%;
+border: ridge 12px #20A020
+}
+
+
+p
+{
+font-family: sans-serif;
+margin: 5px;
+margin-left: 45px;
+}
